@@ -1840,6 +1840,11 @@ _global_script_classes=[ {
 "path": "res://Game/InteractionSystem/Relationship/SocialEventType.gd"
 }, {
 "base": "Reference",
+"class": "SoundModBGMDB",
+"language": "GDScript",
+"path": "res://Modules/SoundModule/SoundModBGMDB.gd"
+}, {
+"base": "Reference",
 "class": "SpecialRelationshipBase",
 "language": "GDScript",
 "path": "res://Game/InteractionSystem/Relationship/SpecialRelationshipBase.gd"
@@ -2406,6 +2411,7 @@ _global_script_class_icons={
 "SmartLock": "",
 "SmartLockBase": "",
 "SocialEventType": "",
+"SoundModBGMDB": "",
 "SpecialRelationshipBase": "",
 "Species": "",
 "SpeciesCompatibility": "",

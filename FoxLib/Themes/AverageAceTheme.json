@@ -1,0 +1,13 @@
+{
+	"name": "AverageAce",
+	"sidePanelsCornersSize": 0,
+	"adultAdvisoryCornersSize": 0,
+	"primaryBackground": "#29241C",
+	"secondaryBackground": "#17120A",
+	"optionsHeaderBackground": "#700000",
+	"adultAdvisoryBackground": "#700000",
+	"inventoryBackground": "#540000",
+	"inventoryEntryActiveBackground": "#e95423",
+	"inventoryEntryInactiveBackground": "#000000",
+	"portaitBackground": "#540000"
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Simple Dark (Flat)",
+	"sidePanelsCornersSize": 0,
+	"adultAdvisoryCornersSize": 8,
+	"primaryBackground": "#444444",
+	"secondaryBackground": "#333333",
+	"optionsHeaderBackground": "#333333",
+	"inventoryBackground": "#333333",
+	"inventoryEntryActiveBackground": "#555555",
+	"inventoryEntryInactiveBackground": "#444444",
+	"portaitBackground": "#444444"
+}

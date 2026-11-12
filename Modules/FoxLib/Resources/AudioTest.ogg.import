@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/AudioTest.ogg-bda15d974d05ce2d4b3cf240f9f26e45.oggstr"
+
+[deps]
+
+source_file="res://Modules/FoxLib/Resources/AudioTest.ogg"
+dest_files=[ "res://.import/AudioTest.ogg-bda15d974d05ce2d4b3cf240f9f26e45.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

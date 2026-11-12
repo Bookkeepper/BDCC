@@ -1,0 +1,10 @@
+{
+"name": "Jack",
+"primaryBackground": "#3F7D3E",
+"secondaryBackground": "#355D22",
+"optionsHeaderBackground": "#355D22",
+"inventoryBackground": "#355D22",
+"inventoryEntryActiveBackground": "#1B420F",
+"inventoryEntryInactiveBackground": "#3F7D3E",
+"portaitBackground": "#3F7D3E"
+}
